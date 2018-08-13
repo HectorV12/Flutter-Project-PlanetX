@@ -1,9 +1,4 @@
-# planetx
+# Flutter Project Planetx
 
-A new Flutter application.
+Flutter Project that converts your Earth weight (in lbs) to weight on other planets such as Mars, Pluto and Venus.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-# Flutter-Project-PlanetX
